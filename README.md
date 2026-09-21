@@ -203,12 +203,10 @@ This project can help identify:
 - Vehicle categories contributing most to traffic volume.
 - Locations where traffic signal waiting time may require further investigation.
 
+
 ## 🖼️ Dashboard Preview
 
-
-```markdown
 ![Smart City Traffic Analytics Dashboard](Images/dashboard.png)
-```
 
 ## 🚀 How to Use This Project
 
